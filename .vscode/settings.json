@@ -3,6 +3,9 @@
         "asyncio",
         "eventkit",
         "numpy",
-        "setuptools"
+        "setuptools",
+        "timedatectl",
+        "trapapa",
+        "venv"
     ]
 }
