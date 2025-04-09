@@ -71,6 +71,8 @@ deactivate
 
 ```bash
 pip install ib_async
+
+pip3 install ibapi
 ```
 
 ## [ib_async](https://github.com/ib-api-reloaded/ib_async) package installs the following package automatically
