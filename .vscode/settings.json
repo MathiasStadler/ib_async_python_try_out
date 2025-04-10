@@ -4,6 +4,7 @@
         "daytoexpired",
         "eventkit",
         "ibapi",
+        "levelname",
         "numpy",
         "setuptools",
         "timedatectl",
