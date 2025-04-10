@@ -1,10 +1,12 @@
 {
     "cSpell.words": [
+        "asctime",
         "asyncio",
         "daytoexpired",
         "eventkit",
         "ibapi",
         "levelname",
+        "levelno",
         "numpy",
         "setuptools",
         "timedatectl",
