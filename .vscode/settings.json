@@ -9,6 +9,7 @@
         "ibapi",
         "levelname",
         "levelno",
+        "myfunc",
         "numpy",
         "pathlib",
         "setuptools",
