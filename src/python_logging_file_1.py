@@ -6,7 +6,6 @@ logger = logging.getLogger(__name__)
 
 
 def main():
-    # logging.basicConfig(filename='myapp.log', level=logging.INFO)
     logging.basicConfig(filename='myapp1.log',
                         level=logging.DEBUG,
                         format="[%(asctime)s] p%(process)s {%(pathname)s:%(lineno)d} %(levelname)s - %(message)s")
