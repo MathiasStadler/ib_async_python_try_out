@@ -3,6 +3,7 @@
         "asctime",
         "asyncio",
         "daytoexpired",
+        "elif",
         "eventkit",
         "ibapi",
         "levelname",

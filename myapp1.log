@@ -30,3 +30,11 @@
 [2025-04-11 10:34:35,151] p26337 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:19} INFO - Started
 [2025-04-11 10:34:35,151] p26337 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:20} INFO - working
 [2025-04-11 10:34:35,151] p26337 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:21} INFO - Finished
+[2025-04-11 15:14:01,508] p68336 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:12} DEBUG - This is a debug message
+[2025-04-11 15:14:01,508] p68336 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:13} INFO - This is an info message
+[2025-04-11 15:14:01,508] p68336 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:14} WARNING - This is a warning message
+[2025-04-11 15:14:01,508] p68336 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:15} ERROR - This is an error message
+[2025-04-11 15:14:01,508] p68336 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:16} CRITICAL - This is a critical message
+[2025-04-11 15:14:01,508] p68336 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:18} INFO - Started
+[2025-04-11 15:14:01,508] p68336 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:19} INFO - working
+[2025-04-11 15:14:01,508] p68336 {/home/trapapa/ib_async_python_try_out/src/python_logging_file_1.py:20} INFO - Finished
